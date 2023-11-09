@@ -31,3 +31,7 @@ img{
 article{
     overflow: visible
 }
+table{
+   padding: 0px;
+   text-align: center;
+}
