@@ -16,7 +16,9 @@ a:link {
     color: white;
 }
 
-
+body{
+    background-color: lightblue;
+}
 a:visited {
     color: white;
 }
