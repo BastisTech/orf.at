@@ -1,0 +1,39 @@
+body{
+    font-family: 'Source Sans 3', sans-serif;
+    max-width: 1000px;
+    margin: auto;
+
+
+
+}
+nav {
+    background-color: darkblue;
+    color: white;
+    height: 2rem;
+}
+
+a:link {
+    color: white;
+}
+
+body{
+    background-color: lightblue;
+}
+a:visited {
+    color: white;
+}
+article{
+    background-color: white;
+}
+img{
+    height: 50%;
+    width: 50%;
+    margin: auto;
+}
+article{
+    overflow: visible
+}
+table{
+   padding: 0;
+   text-align: center;
+}
