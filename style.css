@@ -28,7 +28,12 @@ a:hover {
     color: white;
     text-decoration: none;
 }
-article{
+#logo{
+    width: 5%;
+    height: 5%;
+    align-content: baseline;
+}
+main{
     background-color: #6495ED;
     color: white;
 }
@@ -42,4 +47,7 @@ table,th,td{
 }
 h2{
     margin: auto;
+}
+label{
+    vertical-align: super;
 }
